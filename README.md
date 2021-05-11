@@ -5,3 +5,5 @@ Main Objective - To conduct experiments to see if the algorithm when facing nume
 
 General Description:
 Auto-AI-Dev-Kit is a software application that solves problems through techniques involving Artificial Intelligence. Given a problem statement, and a corresponding dataset this algorithm autonomously starts to run some scripts in the background that would involve solving the problem using multiple approaches and it records every detail along the way, stores them in a backend database which would be used to solve future problems by applying the knowledge it had gained by solving various problems in the past. 
+
+Note - All code files are currently in my local and are in experimentation phase. They would be uploaded to git once a stable version is reached.
